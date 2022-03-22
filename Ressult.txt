@@ -1,0 +1,2 @@
+Image	Name	Class	Parent	ROI	Centroid X µm	Centroid Y µm	Area µm^2	Perimeter µm
+S02-3868_7_.svs	PathAnnotationObject		Image	Rectangle	11502.1	11552	531534364.2	92220.3

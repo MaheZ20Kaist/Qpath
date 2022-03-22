@@ -1,0 +1,2 @@
+Image	Name	Missing	Centroid X µm	Centroid Y µm	Num Detections	Num Negative	Positive %
+TCGA-C8-A138-01Z-00-DX1.845A0680-23A4-4A58-A9C4-2EE17BDBD371.svs	B-1	False	8742.9	7615.6	662	662	0
